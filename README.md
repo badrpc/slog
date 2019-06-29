@@ -4,6 +4,8 @@ GoLang package slog provides alternative syslog client API. An internal
 syslog writer used to send messages to a syslog service with options
 to tune it.
 
+slog is not an officially supported Google product.
+
 ## Example
 
 ``` go
